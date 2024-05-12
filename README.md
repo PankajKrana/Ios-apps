@@ -4,15 +4,13 @@ Welcome to the iOS Apps repository! This repository contains multiple iOS app fi
 
 ## Apps Included
 
-## SwiftUI-Weather
+### SwiftUI-Weather
 
 1. **SwiftUI-Weather**
    - Description: This app contains a UI of a weather application built using SwiftUI.
    - Features: Dark mode and light mode feature.
-   - Screenshots: [![Simulator Screenshot - iPhone 15 Pro - 2024-05-12 at 14 35 55](https://github.com/PankajKrana/Ios-apps/assets/118725047/854f8324-a254-4b15-bea0-fa4e13e39e89)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-12 at 14 35 50](https://github.com/PankajKrana/Ios-apps/assets/118725047/c17c5933-effd-4a13-b1d8-e2dece13f172)
-]
-
+   - Screenshots:
+     
 
 ## Getting Started
 
