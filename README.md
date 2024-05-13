@@ -13,6 +13,5 @@
 
 ## Xylophone
   <img src="https://github.com/PankajKrana/Swift-Journey/assets/118725047/ff26710c-24da-4e61-8f61-4aed143ba2d8" width="200">
-  <img src="https://github.com/PankajKrana/Swift-Journey/assets/118725047/6464bff8-2436-41b8-a78d-9a8408867121" width="200">
   
   
